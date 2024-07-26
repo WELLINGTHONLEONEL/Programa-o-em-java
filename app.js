@@ -1,4 +1,4 @@
-alert('Bem vindo lek, vamo ver se você presta pra algo');
+alert('Bem vindo besta, vamo ver se você presta pra algo');
 let numeroSecreto = 5;
 console.log('numeroSecreto')
 let chute = prompt('Escolha um número entre 1 e 100');
