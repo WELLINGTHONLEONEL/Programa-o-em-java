@@ -1,5 +1,5 @@
 alert('Bem vindo besta, vamo ver se você presta pra algo');
-let numeroSecreto = 5;
+let numeroSecreto = 24;
 console.log('numeroSecreto')
 let chute = prompt('Escolha um número entre 1 e 100');
 
@@ -7,5 +7,5 @@ let chute = prompt('Escolha um número entre 1 e 100');
 if (chute == numeroSecreto) {
 alert('Não fez mais q a sua obrigação! paura béns (24)');
 } else {
-alert('Ruim demais, presta pra nada memo seu burro >:[')
+alert('Ruim demais, presta pra nada memo seu imundo >:[')
 }
